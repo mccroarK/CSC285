@@ -1,1 +1,2 @@
-# CSC285
+CSC285
+Kevin McCroary
